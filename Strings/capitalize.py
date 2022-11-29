@@ -1,5 +1,6 @@
 from string import ascii_lowercase, ascii_uppercase
 
+# TODO: Need to capitalize first letter of each sentence, not first letter of input.
 def capitalize(sentence: str) -> str:
     """
     This function will capitalize the first letter of a sentence or a word.
